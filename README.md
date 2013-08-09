@@ -10,7 +10,7 @@ Features
 
 Notice!!
 --------
-- This library requires loopj's "[Android Asynchronous Http Client](http://loopj.com/android-async-http/)".
+- This library requires [Android Asynchronous Http Client](http://loopj.com/android-async-http/) by James Smith.
 - You have to maintain cookies with **com.loopj.android.http.PersistentCookieStore** class
 
 Usage
