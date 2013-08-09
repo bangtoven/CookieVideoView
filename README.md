@@ -11,7 +11,8 @@ Features
 Notice!!
 --------
 - This library requires [Android Asynchronous Http Client](http://loopj.com/android-async-http/) by James Smith.
-- You have to maintain cookies with **com.loopj.android.http.PersistentCookieStore** class
+- You have to maintain cookies with **com.loopj.android.http.PersistentCookieStore** class.
+- Or you can try [my fork](https://github.com/bangtoven/android-async-http) of **Android Asynchronous Http Client**.
 
 Usage
 -------
